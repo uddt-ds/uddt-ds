@@ -4,4 +4,8 @@
 
 </div>
 
-[![Tech Blog Badge](https://img.shields.io/badge/tech%20blog-255F38?style=flat-square&color=255F38)](https://uddt.tistory.com/))
+<div align=right>
+  
+[![Tech Blog Badge](https://img.shields.io/badge/tech%20blog-255F38?style=flat-square&color=255F38)](https://uddt.tistory.com/)
+
+</div>
