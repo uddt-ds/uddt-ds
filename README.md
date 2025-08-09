@@ -32,7 +32,7 @@ let daseong = Member(
     languages: ["Swift"],
     collaborationTools: ["Slack", "Notion"],
     interests: ["사진", "음악", "AI"]
-    history: ["스파르타 코딩클럽(25. 02. 03 ~ 25. 07. 10)"]
+    history: ["스파르타 코딩클럽(25. 03. 03 ~ 25. 07. 10)"]
 )
 
 print("안녕하세요! 저는 \(daseong.name)입니다.")
